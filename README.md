@@ -26,3 +26,6 @@ The Yelp platform published crowd-sourced reviews about businesses. It provides 
 3.  [`analysis_LSTM.ipynb`](https://github.com/cyac15/IMT575_yelpHelp/blob/master/analysis_LSTM.ipynb)
 4.  [`analysis_baseline.ipynb`](https://github.com/cyac15/IMT575_yelpHelp/blob/master/analysis_baseline.ipynb)
 5.  [`analysis_xGBoost.ipynb`](https://github.com/cyac15/IMT575_yelpHelp/blob/master/analysis_xGBoost.ipynb)
+
+
+Group Members: Chiaoya Chang, Chen Song, Tony Chu, Xinyi Yang
